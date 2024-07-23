@@ -1,0 +1,9 @@
+AliceShop P001 Apple 100 50
+AliceShop P002 Banana 200 30
+BobsMarket P003 Orange 150 20
+CharliesGoods P004 Grapes 250 40
+fashionablemall 1 T-shirt 100 50
+fashionablemall 2 underwear 50  45
+fashionablemall 3 hat 30 47
+fashionablemall 4 shoes 400 35
+fashionablemall 5 jacket 70 34
